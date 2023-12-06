@@ -10,5 +10,8 @@ public class app
 //        System.out.println(g1.password(4,true,false,true));
 //        generator g2=new generator();
 //        System.out.println(g2.password(35,true,true,false));
+    	
+    	userChoices user =new userChoices();
+    	System.out.println(user.userIp());
     }
 }
